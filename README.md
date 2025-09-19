@@ -27,5 +27,12 @@ It showcases my skills, projects, and ways to connect with me.
 
 ---
 
+## 👨‍💻 Author
+**Afaque Azam**   
+- LinkedIn:
+- Email:
+
+--- 
+
 ⭐ Don’t forget to star this repo if you like it! 
                   ❤️❤️❤️
